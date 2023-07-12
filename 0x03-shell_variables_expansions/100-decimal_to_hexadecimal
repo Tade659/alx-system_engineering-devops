@@ -1,0 +1,2 @@
+#!/bin/base
+printf "%x\n" $DECIMAL
